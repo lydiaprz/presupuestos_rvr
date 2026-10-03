@@ -89,3 +89,4 @@
 2. La aplicación borra los campos guardados y recarga los valores iniciales.
 
 **Resultado:** Se puede configurar un trabajo distinto sin reutilizar los parámetros anteriores.
+

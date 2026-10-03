@@ -42,3 +42,4 @@ Este documento describe lo que ofrece la versión actual, sin incluir las mejora
 - No actualiza automáticamente los precios del proveedor.
 - No genera un PDF comercial propio con logotipo, datos fiscales y condiciones.
 - No calcula automáticamente todas las piezas de una doble salida o de un vehículo concreto.
+

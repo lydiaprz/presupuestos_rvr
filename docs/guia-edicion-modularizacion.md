@@ -2,7 +2,7 @@
 
 ## Cómo editar la versión actual
 
-La aplicación está concentrada en `outputs/calculadora-escapes.html`; puedes editarla con un editor de texto o código y volver a abrirla en el navegador.
+La aplicación está concentrada en `index.html`; puedes editarla con un editor de texto o código y volver a abrirla en el navegador.
 
 - **Textos y campos**: modifica el HTML. Cada entrada tiene un `id` que usa el JavaScript; si cambias un `id`, actualízalo también en `ids` y en las referencias `$()` del script.
 - **Apariencia**: edita las reglas dentro de `<style>`. Las reglas `@media(max-width:760px)` adaptan la interfaz a móvil y `@media print` prepara la impresión.
@@ -41,5 +41,6 @@ Orden recomendado para dividirla sin mezclar cambios grandes:
 6. Mantener los mismos resultados en cada paso y validar la aplicación antes de añadir funciones nuevas.
 
 Si se usan módulos nativos de JavaScript (`import` / `export`), algunos navegadores restringen su apertura directa con `file://`. En ese momento, sirve la carpeta con un servidor local de desarrollo. Un backend y una base de datos solo hacen falta cuando el usuario necesite cuentas, compartir presupuestos o sincronizar varios dispositivos.
+
 
 

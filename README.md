@@ -4,7 +4,7 @@ Aplicación web sencilla para estimar el precio de fabricar tramos de escape en 
 
 ## Cómo abrirla
 
-Abre [`outputs/calculadora-escapes.html`](outputs/calculadora-escapes.html) en un navegador moderno. Los valores que cambies se guardan en el almacenamiento local de ese navegador. **Nuevo** restaura los valores iniciales. **Imprimir / PDF** permite imprimir o guardar el resumen; **Copiar resumen** copia el desglose.
+Abre [`index.html`](index.html) en un navegador moderno. Los valores que cambies se guardan en el almacenamiento local de ese navegador. **Nuevo** restaura los valores iniciales. **Imprimir / PDF** permite imprimir o guardar el resumen; **Copiar resumen** copia el desglose.
 
 ## Documentación
 
@@ -16,7 +16,7 @@ Abre [`outputs/calculadora-escapes.html`](outputs/calculadora-escapes.html) en u
 
 ## Estructura y documentación del código
 
-- `outputs/calculadora-escapes.html`: interfaz, estilos y lógica en un único archivo.
+- `index.html`: interfaz, estilos y lógica en un único archivo.
 - `README.md`: introducción y visión general del proyecto.
 - `docs/analisis-requisitos.md`: objetivo, requisitos funcionales y no funcionales, y reglas de cálculo.
 - `docs/casos-de-uso.md`: actores y recorridos paso a paso.
@@ -95,5 +95,6 @@ Proveedor de referencia: [Weldracingparts](https://weldracingparts.com/es/). El 
 - **API**: interfaz que permite que dos programas intercambien datos, por ejemplo la aplicación y un servidor.
 - **Base de datos**: sistema organizado para guardar y consultar información como clientes, materiales y presupuestos.
 - **CSV / JSON**: formatos de archivo habituales para importar y exportar tablas o datos estructurados.
+
 
 

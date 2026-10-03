@@ -28,3 +28,4 @@ flowchart TD
 5. El usuario puede copiar el resumen, imprimirlo o reiniciar el formulario. El navegador conserva los parámetros hasta que se limpian con **Nuevo**.
 
 
+

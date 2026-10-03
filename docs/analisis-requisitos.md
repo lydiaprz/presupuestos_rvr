@@ -38,3 +38,4 @@ Calcular una estimación consistente del coste y del precio de venta de un traba
 El margen es un porcentaje añadido al coste, no un porcentaje del precio final. El cálculo no incluye envío, homologación, otros impuestos ni operaciones que no se hayan introducido.
 
 
+
